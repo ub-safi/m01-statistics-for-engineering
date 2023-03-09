@@ -1,2 +1,17 @@
-# m01-statistics-for-engineering
-Learn about the M01 "Statistics for Engineering"
+# M01 "Statistics for Engineering"
+
+*description*
+
+
+
+## Prerequisites
+
+- *English level*
+- *technical*
+- *previous courses*
+
+
+
+## Upcoming Sessions
+
+*dates*
