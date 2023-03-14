@@ -62,8 +62,7 @@ Upon completion of this course, you will be able to:
 
 **October 2023 (5 days)** @ Renault
 <!--![Renault](https://img.shields.io/static/v1?label=venue&labelColor=white&message=Renault&color=black)-->
-- 02-05.10.2023 (onsite)
-- 11.10.2023 (remote)
+- 02-06.10.2023
 - each day from 9am to 5pm (CET time)
 
 
