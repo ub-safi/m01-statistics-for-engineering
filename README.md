@@ -49,11 +49,6 @@ Upon completion of this course, you will be able to:
 
 ## Upcoming Sessions
 
-**March 2023 (5 days)**
-- 15-16.03.2023
-- 22-24.03.2023
-- each day from 9am to 5pm (CET time)
-
 **September 2023 (5 days)**
 - 13-14.09.2023
 - 20-21.09.2023
