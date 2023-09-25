@@ -49,12 +49,6 @@ Upon completion of this course, you will be able to:
 
 ## Upcoming Sessions
 
-**September 2023 (5 days)**
-- 13-14.09.2023
-- 20-21.09.2023
-- 26.09.2023
-- each day from 9am to 5pm (CET time)
-
 **October 2023 (5 days)** @ Renault
 <!--![Renault](https://img.shields.io/static/v1?label=venue&labelColor=white&message=Renault&color=black)-->
 - 02-06.10.2023
