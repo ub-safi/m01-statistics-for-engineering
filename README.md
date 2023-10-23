@@ -49,9 +49,10 @@ Upon completion of this course, you will be able to:
 
 ## Upcoming Sessions
 
-**October 2023 (5 days)** @ Renault
+**March 2024 (5 days)**
 <!--![Renault](https://img.shields.io/static/v1?label=venue&labelColor=white&message=Renault&color=black)-->
-- 02-06.10.2023
+- 13-14.03.2024
+- 20-22.03.2024
 - each day from 9am to 5pm (CET time)
 
 
