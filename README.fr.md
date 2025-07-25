@@ -57,44 +57,44 @@ La formation est dispensée sous forme de classe virtuelle sous Teams. Informati
 
 
 ## OBJECTIFS DE LA FORMATION
-Upon completion of this module, the participant will be able to:
-- Demonstrate a critical understanding of the fundamental principles of statistics in theory and practice that support a range of engineering activities, including design specification, concept selection and product design verification planning and reporting,
-- Apply knowledge and skills to plan data collection and analysis activities appropriate to a wide variety of engineering scenarios (including CAE), and present data to underpin model-based problem solving and data-driven product and process design decision-making.
-- Master the practice of skills in specialised statistical packages for data analysis using Python in a Google Colab environment
-- Demonstrate his analytical and problem-solving skills and ability to communicate effectively in a project team and contribute to teamwork facilitation.
+A l’issue de ce module, le participant sera capable de :
+- Démontrer une compréhension critique des principes fondamentaux de la statistique en théorie et en pratique, applicables à une gamme d’activités d’ingénierie, comprenant la spécification de la conception, la sélection du concept et la planification et le rapport de la vérification de la conception du produit
+- Appliquer les connaissances et les compétences acquises pour planifier la collecte de données et les activités d’analyse appropriées à une grande variété de scénarios d’ingénierie (y compris l’IAO), et présenter les données pour étayer la résolution de problèmes basée sur des modèles et la prise de décision de conception de produits et de processus basée sur des données
+- Maîtriser la pratique de logiciels statistiques spécialisés pour l’analyse des données en utilisant Python dans un environnement Google Colab
+- Démontrer ses compétences en matière d’analyse et de résolution de problèmes et sa capacité à communiquer efficacement au sein d’une équipe de projet et à contribuer à l’animation du travail d’équipe
 
 
 
 ## PROGRAMME
-This course introduces methods for efficient engineering data collection and statistical analysis to support model based problem-solving and inform management decision-making in the design and engineering of complex product and process systems in a data rich environment.
+Ce cours présente des méthodes de collecte de données d’ingénierie et d’analyse statistique efficaces pour soutenir la résolution de problèmes basée sur des modèles et éclairer la prise de décision de gestion dans la conception et l’ingénierie de systèmes complexes de produits et de processus dans un environnement riche en données.
 
-The course is organised as follows:
+<!--The course is organised as follows:-->
 
-### Statistics Fundamentals
-- Overview of statistical engineering methodologies in the product creation process and throughout the whole system lifecycle.
-- Introducing discrete random data – Uniform, Bernoulli & Poisson distributions.
-- Modelling continuous random data – the fundamental principles of statistical modelling including the Normal distribution.
-- Data Visualisation and interpretation.
+### Fondamentaux de la statistique
+- Vue d’ensemble des méthodologies d’ingénierie statistique dans le processus de création de produits et tout au long du cycle de vie du système
+- Introduction aux données aléatoires discrètes – distributions uniformes, de Bernoulli et de Poisson
+- Modélisation des données aléatoires continues – les principes fondamentaux de la modélisation statistique, y compris la distribution normale
+- Visualisation et interprétation des données
 
-### Decision-Making Models
-- Confidence Intervals
-- Hypothesis Testing
-- Power & Sample Size
-- One-way ANOVA
+### Modèles de prise de décision
+- Intervalles de confiance
+- Test d’hypothèse
+- Puissance et taille de l’échantillon
+- ANOVA univariée
 
-### Univariate & Multivariate Models
-- Correlation & Regression
-- Residual Analysis
-- Multiple Regression
+### Modèles univariés et multivariés
+- Corrélation et régression
+- Analyse des résidus
+- Régression multiple
 
-### Categorical Data
-- An introduction to dealing with survey and categorical data using examples
-- Visualisation of categorical data
-- Stratification in data
-- Bayes Theorem with simple applications
+### Données catégorielles
+- Introduction au traitement des enquêtes et des données catégorielles à l’aide d’exemples
+- Visualisation des données catégorielles
+- Stratification des données
+- Théorème de Bayes avec des applications simples
 
-### Mini-Project
-- Strengthening the delivered concepts through application to an industry case study.
+### Mini-Projet
+- Renforcement des concepts enseignés par l’application à une étude de cas industrielle
 
 
 
