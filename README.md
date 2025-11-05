@@ -25,7 +25,7 @@ The course covers methods to support statistical analysis and modelling based on
 ## Training Delivery Methodology
 The delivery is designed as a workshop style with an approximate 50/50 split between technical sessions and hands-on exercises, designed to explain the concepts by leveraging relevant industrial case studies.
 
-Delivered online. Learning materials including reading, tutorials and exercises will be provided in electronic format before the course, with example solutions to the exercises where appropriate. Introduction to Colab Python tutorial at introductory level will also be provided.
+Delivered online. Course package to be sent a week in advance with joining instructions and training material with Python Programming tutorials at Introductory level.
 
 
 
